@@ -1,0 +1,15 @@
+.w-img {
+  width: 170px;
+}
+
+.text-tbody th {
+  font-weight: normal;
+}
+
+.bg-container {
+  background-color: transparent;
+  background-image: url(img/maquinarias.jpg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
